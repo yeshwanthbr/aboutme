@@ -1,6 +1,13 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: <p align="center"> Yeshwanth Rajaram </p>
+logo: /assets/img/yr.png
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/yeshwanth-rajaram">LinkedIn</a> |
+  <a href="https://github.com/yeshwanthbr">GitHub</a>
+ 
+  <br>  
+  Lead Developer at SAP Labs. 
+  Data Science and Artificial Intelligence enthusiast.
+  <br>
+  </p>
