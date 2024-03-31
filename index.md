@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Data Science and Artificial Intelligence
 AI and Data Science enthusiast
