@@ -1,5 +1,5 @@
 
-# Data Science and Artificial Intelligence
+# Data Science and AI
 AI and Data Science enthusiast
 
 # Test Engineering
